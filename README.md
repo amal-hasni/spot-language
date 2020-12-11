@@ -2,6 +2,8 @@
 
 This project consists of training an NLP model to detect the "programming" language of a given code snippet.
 
+![banner](banner.png)
+
 
 The trained model supports the following languages:
 
@@ -58,8 +60,6 @@ The trained model supports the following languages:
     </tr>
   </tbody>
 </table>
-
-
 
 ## Demonstration
 To try the model out, you can follow this [link](https://spot-language.herokuapp.com/) to the Demo App deployed on **Heroku**.
