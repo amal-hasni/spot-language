@@ -64,7 +64,7 @@ The trained model supports the following languages:
 ## Demonstration
 To try the model out, you can follow this [link](https://spot-language.herokuapp.com/) to the Demo App deployed on **Heroku**.
 ## Training:
-To train the model, you need to download the dataset we used through this [kaggle notebook](kaggle.com). You can read it, to see how we extracted it from **"Github Repos"** dataset or run the all cells to skip to the download link at the end directly.
+To train the model, you need to download the dataset we used through this [kaggle notebook](https://www.kaggle.com/amalhasni/creating-labeled-code-snippets-dataset). You can read it, to see how we extracted it from **"Github Repos"** dataset or run the all cells to skip to the download link at the end directly.
 
 Once you have the dataset, replace the `DATA_PATH` variable with the appropriate value in the `train.py` and run the code to see the accuracy it gives you. It should be around 97%.
 
