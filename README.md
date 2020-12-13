@@ -1,6 +1,6 @@
 # Spot-Language Model
 
-This project consists of training an NLP model to detect the "programming" language of a given code snippet.
+This project was created to build an NLP solution for programming language detection out of source code.
 
 ![banner](banner.png)
 
