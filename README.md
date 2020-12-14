@@ -4,7 +4,10 @@ This project was created to build an NLP solution for programming language detec
 
 ![banner](banner.png)
 
+## Link to Medium Article
+[How I Built a Classification Model for Source Code Languages](https://towardsdatascience.com/classification-model-for-source-code-programming-languages-40d1ab7243c2)
 
+## Supported Languages
 The trained model supports the following languages:
 
 <table border="1" class="dataframe">
