@@ -71,4 +71,10 @@ To train the model, you need to download the dataset we used through this [kaggl
 
 Once you have the dataset, replace the `DATA_PATH` variable with the appropriate value in the `train.py` and run the code to see the accuracy it gives you. It should be around 97%.
 
-You can use libraries such as `joblib` or `pickle` to serialize it, if you need to use it at a later time.
+You can use libraries such as `joblib`, `pickle` or `piskle` to serialize it, if you need to use it at a later time.
+
+
+If you like the project and want to support us, you can buy us a coffee here:
+
+<a href="https://www.buymeacoffee.com/amal.hasni" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
