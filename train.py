@@ -10,6 +10,8 @@ from sklearn.pipeline import Pipeline
 DATA_PATH = r"data.csv"
 
 data = pd.read_csv(DATA_PATH, index_col=0)
+data.dropna(inplace=True)
+data.drop_duplicates(inplace=True)
 
 # Train/Test split
 X, y = data.content, data.language
